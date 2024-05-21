@@ -2,6 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To install and run
+
+1. download zip file, unzip and open folder in Node
+
+2. npm install
+
+3. npm start
+
+babel errors?
+
+npm install --save-dev @babel/plugin-proposal-private-property-in-object
+
+4. npm run build
+
+5. serve -s build
+
 ## Available Scripts
 
 In the project directory, you can run:
